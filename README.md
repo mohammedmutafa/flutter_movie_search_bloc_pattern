@@ -1,6 +1,6 @@
 # bloc_movie
 
-A new Flutter project.
+Search movie project with "BLOC" pattern design.
 
 ![screenshot_1536252780](https://user-images.githubusercontent.com/27723153/45176418-9dba6d80-b218-11e8-8e35-37705a6fc70a.png)
 ![screenshot_1536252735](https://user-images.githubusercontent.com/27723153/45176420-9f843100-b218-11e8-9f82-f78b37156adb.png)
